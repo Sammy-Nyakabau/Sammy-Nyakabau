@@ -14,7 +14,6 @@
 | [AKS Primality Testing](https://github.com/Sammy-Nyakabau/AKS-Implementation) | [JavaScript OOP Concepts](https://github.com/Sammy-Nyakabau/JavaScript-OOP-Concepts) | 
 | [Cinema Management System](https://github.com/Sammy-Nyakabau/Cinema-Management-System) | [LATEX Cheatsheet](https://github.com/Sammy-Nyakabau/LATEX-Cheatsheet) |  |
 |  | [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  |
-|
 ---
 
 <p align="center">Visitor Count </p>
