@@ -7,7 +7,7 @@
 - 🥅 Future Goals: Contribute to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/Sammy-Nyakabau/Sammy-Nyakabau/issues)
 ---
-#### My Repositories
+#### My Repositories :computer:
 
 |  Projects :art: :pushpin:| Tutorials :school_satchel: :mortar_board:     | 
 | ------------- |:------------------:| 
@@ -16,7 +16,7 @@
 |  | [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  |
 ---
 
-#### Get in touch :coffee:
+#### My Profiles :coffee:
 [<img align="left" alt="Sammy Nyakabau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sammy-nyakabau/)
 [<img align="left" alt="Sammy Nyakabau | Code Pen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codepen.svg" />](https://codepen.io/sammy-nyakabau)
 [<img align="left" alt="Sammy Nyakabau | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />](https://www.hackerrank.com/nyakabausammy8)
