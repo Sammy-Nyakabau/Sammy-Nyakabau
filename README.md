@@ -23,6 +23,9 @@
 [<img align="left" alt="Sammy Nyakabau | Glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/glitch.svg" />](https://glitch.com/@Sammy-Nyakabau)
 [<img align="left" alt="Sammy Nyakabau | Repl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/repl-dot-it.svg" />](https://repl.it/@SammyNyakabau1)
 
+<br >
+---
+
 #### Tools and Languages 
 
 
