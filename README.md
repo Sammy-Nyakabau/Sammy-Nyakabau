@@ -62,7 +62,8 @@
 
 
 
-<p align="center">Visitor Count </p>
+<p align="center" style=" background: #63f74c; color:black; padding: 0.1rem 0.1rem;
+  border-radius: 5px; font-weight: bold " >Visitor Count </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Sammy-Nyakabau}/count.svg" />
 </p>
