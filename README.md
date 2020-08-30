@@ -22,6 +22,12 @@
 [<img align="left" alt="Sammy Nyakabau | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />](https://www.hackerrank.com/nyakabausammy8)
 [<img align="left" alt="Sammy Nyakabau | Glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/glitch.svg" />](https://glitch.com/@Sammy-Nyakabau)
 [<img align="left" alt="Sammy Nyakabau | Repl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/repl-dot-it.svg" />](https://repl.it/@SammyNyakabau1)
+---
+
+#### Tools and Languages 
+
+
+
 
 <p align="center">Visitor Count </p>
 <p align="center">
