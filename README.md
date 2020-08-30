@@ -56,14 +56,14 @@
 [<img align="left" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/mongodb.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />]()
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cplusplus.svg" />]()
+[<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/c.svg" />]()
 
 <br >
 <hr >
 
 
 
-<p align="center" style=" background: #63f74c; color:black; padding: 0.1rem 0.1rem;
-  border-radius: 5px; font-weight: bold " >Visitor Count </p>
+<p align="center" >Visitor Count </p>
 <p align="center">
   <img src="https://profile-counter.glitch.me/{Sammy-Nyakabau}/count.svg" />
 </p>
