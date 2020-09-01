@@ -15,7 +15,6 @@
 | [Cinema Management System](https://github.com/Sammy-Nyakabau/Cinema-Management-System) | [LATEX Cheatsheet](https://github.com/Sammy-Nyakabau/LATEX-Cheatsheet) | 
 |  [Vidly](https://github.com/Sammy-Nyakabau/Vidly)| [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  
 | [Vidly-API](https://github.com/Sammy-Nyakabau/Vidly-API) | |
-|
 ---
 
 #### My Profiles :coffee:
