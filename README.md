@@ -33,6 +33,7 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudiocode.svg" />]()
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/git.svg" />]()
 [<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg" />]()
+[<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/markdown.svg" />]()
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/ubuntu.svg" />]()
 [<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/firebase.svg" />]()
 [<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />]()
