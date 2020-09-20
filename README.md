@@ -15,7 +15,7 @@
 | [Cinema Management System](https://github.com/Sammy-Nyakabau/Cinema-Management-System) | [LATEX Cheatsheet](https://github.com/Sammy-Nyakabau/LATEX-Cheatsheet) | 
 |  [Vidly](https://github.com/Sammy-Nyakabau/Vidly)| [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  
 | [Vidly-API](https://github.com/Sammy-Nyakabau/Vidly-API) | [MongoDB-Node-Backend Boilerplate](https://github.com/Sammy-Nyakabau/MongoDB-Node-Backend-Boilerplate-) |
-| | [ReactJS Boilerplate](https://github.com/Sammy-Nyakabau/ReactJS-Boilerplate) |
+| [Amazon Clone](https://github.com/Sammy-Nyakabau/Amazon-Clone) | [ReactJS Boilerplate](https://github.com/Sammy-Nyakabau/ReactJS-Boilerplate) |
 | | [Redux Boilerplate](https://github.com/Sammy-Nyakabau/Redux-Boilerplate) |
 ---
 
