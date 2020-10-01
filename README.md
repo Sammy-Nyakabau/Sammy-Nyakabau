@@ -17,6 +17,7 @@
 | [Vidly-API](https://github.com/Sammy-Nyakabau/Vidly-API) | [MongoDB-Node-Backend Boilerplate](https://github.com/Sammy-Nyakabau/MongoDB-Node-Backend-Boilerplate-) |
 | [Amazon Clone](https://github.com/Sammy-Nyakabau/Amazon-Clone) | [ReactJS Boilerplate](https://github.com/Sammy-Nyakabau/ReactJS-Boilerplate) |
 |[Spotify Clone](https://github.com/Sammy-Nyakabau/Spotify-Clone) | [Redux Boilerplate](https://github.com/Sammy-Nyakabau/Redux-Boilerplate) |
+||[Firebase Boilerplate](https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate)|
 ---
 
 #### My Profiles :coffee:
