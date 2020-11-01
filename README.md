@@ -1,8 +1,8 @@
 ### Sammy here👋
 
 
-- 🔭 I’m currently working on REACT Apps
-- 🌱 I’m currently learning Gatsby & Typescript
+- 🔭 I’m currently working on MERN Web Apps and React-Firebase Web Apps
+- 🌱 I’m currently learning React Native & Typescript
 - 👯 I’m looking to collaborate on JavaScript Technologies
 - 🥅 Future Goals: Contribute to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/Sammy-Nyakabau/Sammy-Nyakabau/issues)
@@ -61,7 +61,7 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />]()
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cplusplus.svg" />]()
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/c.svg" />]()
-
+[<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/r.svg" />]()
 <br >
 <hr >
 
