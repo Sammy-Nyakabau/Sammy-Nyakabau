@@ -14,10 +14,10 @@
 | [AKS Primality Testing](https://github.com/Sammy-Nyakabau/AKS-Implementation) | [JavaScript OOP Concepts](https://github.com/Sammy-Nyakabau/JavaScript-OOP-Concepts) | 
 | [Cinema Management System](https://github.com/Sammy-Nyakabau/Cinema-Management-System) | [LATEX Cheatsheet](https://github.com/Sammy-Nyakabau/LATEX-Cheatsheet) | 
 |  [Vidly](https://github.com/Sammy-Nyakabau/Vidly)| [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  
-| [Vidly-API](https://github.com/Sammy-Nyakabau/Vidly-API) | [MongoDB-Node-Backend Boilerplate](https://github.com/Sammy-Nyakabau/MongoDB-Node-Backend-Boilerplate-) |
 | [Amazon Clone](https://github.com/Sammy-Nyakabau/Amazon-Clone) | [ReactJS Boilerplate](https://github.com/Sammy-Nyakabau/ReactJS-Boilerplate) |
 |[Spotify Clone](https://github.com/Sammy-Nyakabau/Spotify-Clone) | [Redux Boilerplate](https://github.com/Sammy-Nyakabau/Redux-Boilerplate) |
 |[E-Commerce Web App](https://github.com/Sammy-Nyakabau/E-Commerce-Web-App)|[Firebase Boilerplate](https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate)|
+| | [MongoDB-Node-Backend Boilerplate](https://github.com/Sammy-Nyakabau/MongoDB-Node-Backend-Boilerplate-) |
 ---
 
 #### My Profiles :coffee:
