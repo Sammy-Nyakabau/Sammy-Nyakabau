@@ -21,7 +21,7 @@
 ---
 
 #### My Profiles :coffee:
-[<img align="left" alt="Sammy Nyakabau | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/sammy-nyakabau/)
+[<img align="left" alt="Sammy Nyakabau | LinkedIn" width="22px" src="./icons/linkedin-color.png" />](https://www.linkedin.com/in/sammy-nyakabau/)
 [<img align="left" alt="Sammy Nyakabau | Code Pen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/codepen.svg" />](https://codepen.io/sammy-nyakabau)
 [<img align="left" alt="Sammy Nyakabau | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />](https://www.hackerrank.com/nyakabausammy8)
 [<img align="left" alt="Sammy Nyakabau | Glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/glitch.svg" />](https://glitch.com/@Sammy-Nyakabau)
