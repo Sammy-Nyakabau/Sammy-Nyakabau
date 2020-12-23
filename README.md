@@ -68,9 +68,3 @@
 <hr >
 
 
-
-<p align="center" >Visitor Count </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/{Sammy-Nyakabau}/count.svg" />
-</p>
-
