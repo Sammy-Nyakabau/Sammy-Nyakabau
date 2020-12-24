@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on MERN Web Apps and React-Firebase Web Apps
 - 🌱 I’m currently learning React Native & Typescript
-- 👯 I’m looking to collaborate on any projects making use of JavaScript(ES6) and its libraries/frameworks
+- 👯 I’m looking to collaborate on any JavaScript(ES6) projects
 - 🥅 Future Goals: Contribute to Open Source projects
 - 💬 Ask me about anything [here](https://github.com/Sammy-Nyakabau/Sammy-Nyakabau/issues)
 ---
