@@ -34,22 +34,20 @@
 
 #### Tools and Languages :wrench: :electric_plug:
 
+[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/adobexd.svg" />]()
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/visualstudiocode.svg" />]()
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/git.svg" />]()
 [<img align="left" alt="Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/github.svg" />]()
 [<img align="left" alt="Travis CI" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/travisci.svg" />]()
 [<img align="left" alt="Markdown" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/markdown.svg" />]()
 [<img align="left" alt="Ubuntu" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/ubuntu.svg" />]()
+[<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/latex.svg" />]()
 [<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/firebase.svg" />]()
 [<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />]()
 [<img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/netlify.svg" />]()
 [<img align="left" alt="Serverless" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/serverless.svg" />]()
 [<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/npm.svg" />]()
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />]()
-[<img align="left" alt="Sentry" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sentry.svg" />]()
-[<img align="left" alt="Algolia" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/algolia.svg" />]()
-[<img align="left" alt="Adobe XD" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/adobexd.svg" />]()
-[<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/latex.svg" />]()
 <br >
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/javascript.svg" />]()
