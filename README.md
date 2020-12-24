@@ -42,9 +42,11 @@
 [<img align="left" alt="Firebase" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/firebase.svg" />]()
 [<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />]()
 [<img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/netlify.svg" />]()
+[<img align="left" alt="Serverless" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/serverless.svg" />]()
 [<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/npm.svg" />]()
 [<img align="left" alt="Sentry" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/sentry.svg" />]()
 [<img align="left" alt="LATEX" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/latex.svg" />]()
+[<img align="left" alt="Overleaf" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/overleaf.svg" />]()
 <br >
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/javascript.svg" />]()
@@ -64,6 +66,14 @@
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cplusplus.svg" />]()
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/c.svg" />]()
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/r.svg" />]()
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/java.svg" />]()
+[<img align="left" alt="TypeScript" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/typescript.svg" />]()
+[<img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/spring.svg" />]()
+[<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/angular.svg" />]()
+[<img align="left" alt="Angular Universal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/angularuniversal.svg" />]()
+[<img align="left" alt="Gatsby" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/gatsby.svg"/>]()
+[<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg"/>]()
+[<img align="left" alt="Nestjs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg"/>]()
 <br >
 <hr >
 
