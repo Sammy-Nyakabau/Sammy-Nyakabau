@@ -61,10 +61,10 @@
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg"/>]()
 [<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/redux.svg" />]()
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/graphql.svg" />]()
+[<img align="left" alt="Electron" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/electron.svg" />]()
 [<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/angular.svg" />]()
+[<img align="left" alt="Angular Universal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/angularuniversal.svg" />]()
 [<img align="left" alt="Nestjs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg"/>]()
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/java.svg" />]()
-[<img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/spring.svg" />]()
 <br >
 
 [<img align="left" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/mongodb.svg" />]()
@@ -72,6 +72,8 @@
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/mysql.svg" />]()
 [<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/cplusplus.svg" />]()
 [<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/c.svg" />]()
+[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/java.svg" />]()
+[<img align="left" alt="Spring Boot" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/spring.svg" />]()
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />]()
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/django.svg" />]()
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/r.svg" />]()
