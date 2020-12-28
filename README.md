@@ -9,13 +9,13 @@
 ---
 #### My Repositories :computer:
 
-|  Projects :art: :pushpin:| Tutorials :school_satchel: :mortar_board:     | 
-| ------------- |:--------------:| 
-| [AKS Primality Testing](https://github.com/Sammy-Nyakabau/AKS-Implementation) | [JavaScript OOP Concepts](https://github.com/Sammy-Nyakabau/JavaScript-OOP-Concepts) | 
+|  Projects :art: :pushpin:| Tutorials :school_satchel: :mortar_board:     |  Templates :page_facing_up: :pencil2: |
+| ------------- |:--------------:| :--------------:| 
+| [AKS Primality Testing](https://github.com/Sammy-Nyakabau/AKS-Implementation) | [JavaScript OOP Concepts](https://github.com/Sammy-Nyakabau/JavaScript-OOP-Concepts) | [React-Firebase](https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate) |
 | [Cinema Management System](https://github.com/Sammy-Nyakabau/Cinema-Management-System) | [LATEX Cheatsheet](https://github.com/Sammy-Nyakabau/LATEX-Cheatsheet) | 
 | [E-Commerce Web App](https://github.com/Sammy-Nyakabau/E-Commerce-Web-App) | [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  
-| [E-Travel Web App](https://github.com/Sammy-Nyakabau/E-Travel-Web-App)| [Git CheatSheet](https://github.com/Sammy-Nyakabau/Git-Cheatsheet) |
-||[Firebase Boilerplate](https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate)|
+| [E-Travel Web App](https://github.com/Sammy-Nyakabau/E-Travel-Web-App)| [Git Cheatsheet](https://github.com/Sammy-Nyakabau/Git-Cheatsheet) |
+
 ---
 
 #### My Profiles :coffee:
