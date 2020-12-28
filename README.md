@@ -13,12 +13,9 @@
 | ------------- |:--------------:| 
 | [AKS Primality Testing](https://github.com/Sammy-Nyakabau/AKS-Implementation) | [JavaScript OOP Concepts](https://github.com/Sammy-Nyakabau/JavaScript-OOP-Concepts) | 
 | [Cinema Management System](https://github.com/Sammy-Nyakabau/Cinema-Management-System) | [LATEX Cheatsheet](https://github.com/Sammy-Nyakabau/LATEX-Cheatsheet) | 
-|  [Vidly](https://github.com/Sammy-Nyakabau/Vidly)| [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  
+| [E-Commerce Web App](https://github.com/Sammy-Nyakabau/E-Commerce-Web-App) | [Python 3 Cheatsheet](https://github.com/Sammy-Nyakabau/Python-3-Cheatsheet) |  
 | [E-Travel Web App](https://github.com/Sammy-Nyakabau/E-Travel-Web-App)| [Git CheatSheet](https://github.com/Sammy-Nyakabau/Git-Cheatsheet) |
-| [Amazon Clone](https://github.com/Sammy-Nyakabau/Amazon-Clone) | [ReactJS Boilerplate](https://github.com/Sammy-Nyakabau/ReactJS-Boilerplate) |
-|[Spotify Clone](https://github.com/Sammy-Nyakabau/Spotify-Clone) | [Redux Boilerplate](https://github.com/Sammy-Nyakabau/Redux-Boilerplate) |
-|[E-Commerce Web App](https://github.com/Sammy-Nyakabau/E-Commerce-Web-App)|[Firebase Boilerplate](https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate)|
-| | [MongoDB-Node-Backend Boilerplate](https://github.com/Sammy-Nyakabau/MongoDB-Node-Backend-Boilerplate-) |
+||[Firebase Boilerplate](https://github.com/Sammy-Nyakabau/React-Firebase-Boilerplate)|
 ---
 
 #### My Profiles :coffee:
