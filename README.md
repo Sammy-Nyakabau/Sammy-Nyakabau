@@ -24,6 +24,7 @@
 [<img align="left" alt="Sammy Nyakabau | Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/hackerrank.svg" />](https://www.hackerrank.com/nyakabausammy8)
 [<img align="left" alt="Sammy Nyakabau | Glitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/glitch.svg" />](https://glitch.com/@Sammy-Nyakabau)
 [<img align="left" alt="Sammy Nyakabau | Repl" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/repl-dot-it.svg" />](https://repl.it/@SammyNyakabau1)
+[<img align="left" alt="Sammy Nyakabau | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/stackoverflow.svg" />](https://stackoverflow.com/users/story/11436343)
 
 <br >
 
@@ -43,6 +44,7 @@
 [<img align="left" alt="Heroku" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/heroku.svg" />](https://www.heroku.com/)
 [<img align="left" alt="Netlify" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/netlify.svg" />](https://www.netlify.com/)
 [<img align="left" alt="NPM" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/npm.svg" />](https://www.npmjs.com/)
+[<img align="left" alt="Expo" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/expo.svg" />](https://docs.expo.io/)
 [<img align="left" alt="Postman" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/postman.svg" />](https://www.postman.com/)
 <br >
 
