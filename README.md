@@ -75,6 +75,7 @@
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />](https://www.python.org/)
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/django.svg" />](https://www.djangoproject.com/)
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/r.svg" />](https://www.r-project.org/)
+[<img align="left" alt="Julia" width="26px" src="https://i.ibb.co/gTTtnw7/imageonline-co-darkenimage.png" />](https://julialang.org/)
 [<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/tensorflow.svg" />](https://www.tensorflow.org/)
 [<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/pytorch.svg" />](https://pytorch.org/)
 [<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/keras.svg" />](https://keras.io/)
