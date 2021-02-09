@@ -1,11 +1,5 @@
-### Sammy here👋
+# Sammy here👋
 
-
-- 🔭 I’m currently working on MERN Web Apps and React-Firebase Web Apps
-- 🌱 I’m currently learning React Native & Typescript
-- 👯 I’m looking to collaborate on any JavaScript(ES6) projects
-- 🥅 Future Goals: Contribute to Open Source projects
-- 💬 Ask me about anything [here](https://github.com/Sammy-Nyakabau/Sammy-Nyakabau/issues)
 ---
 #### My Repositories :computer:
 
@@ -59,10 +53,10 @@
 [<img align="left" alt="Next.js" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg"/>](https://nextjs.org/)
 [<img align="left" alt="Redux" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/redux.svg" />](https://redux.js.org/)
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/graphql.svg" />](https://graphql.org/)
-[<img align="left" alt="Electron" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/electron.svg" />](https://www.electronjs.org/)
+<!-- [<img align="left" alt="Electron" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/electron.svg" />](https://www.electronjs.org/)
 [<img align="left" alt="Angular" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/angular.svg" />](https://angular.io/)
 [<img align="left" alt="Angular Universal" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/angularuniversal.svg" />](https://angular.io/guide/universal)
-[<img align="left" alt="Nestjs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg"/>](https://docs.nestjs.com/)
+[<img align="left" alt="Nestjs" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/nestjs.svg"/>](https://docs.nestjs.com/) -->
 <br >
 
 [<img align="left" alt="Mongo" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/mongodb.svg" />](https://docs.mongodb.com/manual/introduction/)
@@ -76,9 +70,9 @@
 [<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/django.svg" />](https://www.djangoproject.com/)
 [<img align="left" alt="R" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/r.svg" />](https://www.r-project.org/)
 [<img align="left" alt="Julia" width="26px" src="https://i.ibb.co/gTTtnw7/imageonline-co-darkenimage.png" />](https://julialang.org/)
-[<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/tensorflow.svg" />](https://www.tensorflow.org/)
+<!-- [<img align="left" alt="Tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/tensorflow.svg" />](https://www.tensorflow.org/)
 [<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/pytorch.svg" />](https://pytorch.org/)
-[<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/keras.svg" />](https://keras.io/)
+[<img align="left" alt="Keras" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/keras.svg" />](https://keras.io/) -->
 
 <br >
 <hr >
